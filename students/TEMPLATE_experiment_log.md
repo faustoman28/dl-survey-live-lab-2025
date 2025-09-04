@@ -9,8 +9,8 @@ For each experiment you run this semester:
 
 ## Experiment Template
 
-### Run #: 
-### Date:
+### Run #: 1
+### Date:  9/4
 ### Goal / Question:
 (What are you testing or curious about?)
 
